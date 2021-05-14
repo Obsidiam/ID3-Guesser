@@ -14,16 +14,7 @@
 ;; * Bool
 ;; * (list Sym DT DT)
 
-;;************************************************************
-;;  Yug Manavadaria (20883749)
-;;  CS 135 Fall 2020
-;;  Assignment 07, Problem 2 guess (a,b,c,d,e,f,g,h)
-;;************************************************************
-
 (require "animals.rkt")
-
-;; An Example is a (cons Sym (listof Sym))
-;; Requires: each attribute in the rest is unique
 
 ;;*********************************************************
 
